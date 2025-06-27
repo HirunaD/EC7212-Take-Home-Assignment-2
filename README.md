@@ -69,7 +69,7 @@ jupyter notebook Task1_Otsu_Thresholding.ipynb
 ### Task 1 – Otsu Thresholding
 | Original | Noisy Image | Otsu Segmented |
 |----------|-------------|----------------|
-| ![Original](outputs/task1/original.png) | ![Noisy](outputs/task1/noisy_image.png) | ![Otsu](outputs/task1/otsu_segmented.png) |
+| ![Original](outputs/task1/input.png) | ![Noisy](outputs/task1/noisy_image.png) | ![Otsu](outputs/task1/otsu_segmented.png) |
 
 ### Task 2 – Region Growing
 | Seeded Image | Region Grown |
@@ -80,4 +80,4 @@ jupyter notebook Task1_Otsu_Thresholding.ipynb
 
 ## 👨‍💻 Author
 
-Hiru De Silva – [GitHub](https://github.com/yourusername)
+Hiruna De Silva – [GitHub](https://github.com/HirunaD/EC7212-Take-Home-Assignment-2)
